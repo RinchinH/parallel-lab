@@ -1,0 +1,22 @@
+jacobi_cuda.cu(160): error: expected a ")"
+      if (arg.block != 64 arg.block != 128 && arg.block != 256 && arg.block != 512arg.block != 128 && arg.block != 256 && arg.block != 512 arg.block != 128 arg.block != 128 && arg.block != 256 && arg.block != 512arg.block != 128 && arg.block != 256 && arg.block != 512 arg.block != 256 arg.block != 128 && arg.block != 256 && arg.block != 512arg.block != 128 && arg.block != 256 && arg.block != 512 arg.block != 512 arg.block != 128 && arg.block != 256 && arg.block != 512arg.block != 128 && arg.block != 256 && arg.block != 512 arg.block != 1024) {
+                          ^
+
+jacobi_cuda.cu(160): error: non-identifier character in user-defined literal suffix
+      if (arg.block != 64 arg.block != 128 && arg.block != 256 && arg.block != 512arg.block != 128 && arg.block != 256 && arg.block != 512 arg.block != 128 arg.block != 128 && arg.block != 256 && arg.block != 512arg.block != 128 && arg.block != 256 && arg.block != 512 arg.block != 256 arg.block != 128 && arg.block != 256 && arg.block != 512arg.block != 128 && arg.block != 256 && arg.block != 512 arg.block != 512 arg.block != 128 && arg.block != 256 && arg.block != 512arg.block != 128 && arg.block != 256 && arg.block != 512 arg.block != 1024) {
+                                                                                     ^
+
+jacobi_cuda.cu(160): error: non-identifier character in user-defined literal suffix
+      if (arg.block != 64 arg.block != 128 && arg.block != 256 && arg.block != 512arg.block != 128 && arg.block != 256 && arg.block != 512 arg.block != 128 arg.block != 128 && arg.block != 256 && arg.block != 512arg.block != 128 && arg.block != 256 && arg.block != 512 arg.block != 256 arg.block != 128 && arg.block != 256 && arg.block != 512arg.block != 128 && arg.block != 256 && arg.block != 512 arg.block != 512 arg.block != 128 && arg.block != 256 && arg.block != 512arg.block != 128 && arg.block != 256 && arg.block != 512 arg.block != 1024) {
+                                                                                                                                                                                                                       ^
+
+jacobi_cuda.cu(160): error: non-identifier character in user-defined literal suffix
+      if (arg.block != 64 arg.block != 128 && arg.block != 256 && arg.block != 512arg.block != 128 && arg.block != 256 && arg.block != 512 arg.block != 128 arg.block != 128 && arg.block != 256 && arg.block != 512arg.block != 128 && arg.block != 256 && arg.block != 512 arg.block != 256 arg.block != 128 && arg.block != 256 && arg.block != 512arg.block != 128 && arg.block != 256 && arg.block != 512 arg.block != 512 arg.block != 128 && arg.block != 256 && arg.block != 512arg.block != 128 && arg.block != 256 && arg.block != 512 arg.block != 1024) {
+                                                                                                                                                                                                                                                                                                                                                         ^
+
+jacobi_cuda.cu(160): error: non-identifier character in user-defined literal suffix
+      if (arg.block != 64 arg.block != 128 && arg.block != 256 && arg.block != 512arg.block != 128 && arg.block != 256 && arg.block != 512 arg.block != 128 arg.block != 128 && arg.block != 256 && arg.block != 512arg.block != 128 && arg.block != 256 && arg.block != 512 arg.block != 256 arg.block != 128 && arg.block != 256 && arg.block != 512arg.block != 128 && arg.block != 256 && arg.block != 512 arg.block != 512 arg.block != 128 && arg.block != 256 && arg.block != 512arg.block != 128 && arg.block != 256 && arg.block != 512 arg.block != 1024) {
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           ^
+
+5 errors detected in the compilation of "jacobi_cuda.cu".
+make: *** [Makefile:13: jacobi_cuda] Error 2
